@@ -1,6 +1,6 @@
 # spakle
 
-("sparkle" pronounces like a new yorker)
+("sparkle" pronounced like a new yorker)
 
 A tribute to [@holman's][holman] awesome [spark][spark] script in scala.
 

@@ -39,6 +39,8 @@ And use it as you would any other library
     println(spakle.Spark.lns(util.Random.shuffle((1 to 15).toSeq) map(_.toDouble)))
     ▁▇▁▄▃▂▄▄▆▆▅▃▅▁▂
 
+Doug Tangren (softprops) 2011
+
 [holman]: https://github.com/holman
 [spark]: https://github.com/holman/spark
 [conscript]: https://github.com/n8han/conscript#readme

@@ -1,6 +1,6 @@
 package spakle
 
-/** A tiny utility to generating spark line graphs */
+/** A tiny utility for generating spark line graphs */
 object Spark {
   val Lines = "▁▂▃▄▅▆▇"
   def lns(pts: Seq[Double]) = {

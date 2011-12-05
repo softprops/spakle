@@ -2,13 +2,13 @@
 {
  "organization":"me.lessis",
  "name":"spakle",
- "version":"0.1.0-SNAPSHOT",
+ "version":"0.1.0",
  "description":"A little library for generating sparkline graphs",
  "site":"",
  "tags":["sparkline","graphs"],
  "docs":"",
  "licenses": [],
- "resolvers": ["http://scala-tools.org/repo-releases","http://repo.lessis.me"],
+ "resolvers": ["http://repo.lessis.me"],
  "dependencies": [],
  "scalas": ["2.9.1"],
  "sbt": false

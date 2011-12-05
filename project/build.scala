@@ -18,7 +18,7 @@ object Build extends sbt.Build {
     ) ++ lsSettings ++ Seq(
       LsKeys.tags in LsKeys.lsync := Seq("sparkline", "graphs"),
       description in LsKeys.lsync := "A little library for generating sparkline graphs",
-      externalResolvers in LsKeys.lsync += "less is" at "http://repo.lessis.me"
+      externalResolvers in LsKeys.lsync := Seq("less is" at "http://repo.lessis.me")
     )
   )
   lazy val app = Project("app", file("app"),

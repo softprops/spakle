@@ -24,9 +24,9 @@ Then just toss it some data points
 
 ### via sbt
 
-If you are using [ls][ls] just type
+If you are using [ls][ls] just type the following in your `sbt` shell
 
-    ls-install spakle
+    sbt> ls-install spakle
 
 Otherwise add it as a library dependency
 

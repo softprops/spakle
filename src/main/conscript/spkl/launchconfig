@@ -1,0 +1,12 @@
+[app]
+  version: 0.1.0-SNAPSHOT
+  org: me.lessis
+  name: spakle-app
+  class: spakle.Spkl
+[scala]
+  version: 2.9.1
+[repositories]
+  less:http://repo.lessis.me
+  local
+  scala-tools-releases
+  maven-central

@@ -1,0 +1,13 @@
+# spakle ▁▁▃▂█
+
+Spakle is my scala contribution to [@holman's spark](https://github.com/holman/spark/wiki/Alternative-Implementations) script
+
+To install a cmd line client, `spkl` using [conscript]()
+
+    cs sofprops/spakle
+
+Then past it some guicy data points
+
+    spkl 1 2 3 4 5
+   
+That is all.

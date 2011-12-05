@@ -8,6 +8,7 @@ To install a cmd line client, `spkl` using [conscript]()
 
 Then past it some guicy data points
 
-    spkl 1 2 3 4 5
+    $ seq 0 28 | sort -r | spkl
+    ▂▂▂▂▂▁▁▇▆▆▆▆▅▅▅▅▁▅▄▄▄▄▄▃▃▃▃▁▁
    
 That is all.

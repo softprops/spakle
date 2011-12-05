@@ -6,7 +6,7 @@ To install a cmd line client, `spkl` using [conscript]()
 
     cs sofprops/spakle
 
-Then past it some guicy data points
+Then paste it some guicy data points
 
     $ seq 0 28 | sort -r | spkl
     ▂▂▂▂▂▁▁▇▆▆▆▆▅▅▅▅▁▅▄▄▄▄▄▃▃▃▃▁▁
